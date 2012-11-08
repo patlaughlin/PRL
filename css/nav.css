@@ -1,0 +1,3 @@
+.prim-nav { padding-top: 20px; background-color: #353335; position: relative; opacity: 0; }
+.prim-nav h1 { margin: 0 auto; text-align: center; color: white; letter-spacing: 2px; }
+.prim-nav li { display: block; margin-right: 10px; float: left; }

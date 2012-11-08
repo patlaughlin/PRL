@@ -1,0 +1,1885 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ready",
+				"ready	document ready (safe)"
+			],
+			[
+				"pop",
+				"pop_enabled"
+			],
+			[
+				"css",
+				".css	css (map)"
+			],
+			[
+				"curr",
+				"current_slide_idx"
+			],
+			[
+				"cur",
+				"current_index"
+			],
+			[
+				"animate",
+				".animate	animate"
+			],
+			[
+				"artist",
+				"artist_list"
+			],
+			[
+				"inview",
+				"inview_w"
+			],
+			[
+				"carou",
+				"carousel_height"
+			],
+			[
+				"carousel_item",
+				"carousel_item_max"
+			],
+			[
+				"caou",
+				"carousel_item"
+			],
+			[
+				"load",
+				"load_src"
+			],
+			[
+				"targe",
+				"target_pos"
+			],
+			[
+				"invie",
+				"inview_index"
+			],
+			[
+				"inv",
+				"inview_index"
+			],
+			[
+				"next",
+				"next_img"
+			],
+			[
+				"invi",
+				"inview_img"
+			],
+			[
+				"cu",
+				"current_index"
+			],
+			[
+				"img",
+				"img_height"
+			],
+			[
+				"car",
+				"carousel_height"
+			],
+			[
+				"current",
+				"current_index"
+			],
+			[
+				"first",
+				"first_half"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"di",
+				"display	zen:css_properties"
+			],
+			[
+				"curren",
+				"current_index"
+			],
+			[
+				"resize",
+				"resize_img"
+			],
+			[
+				"bio",
+				"bio_box"
+			],
+			[
+				"push",
+				"push_state"
+			],
+			[
+				"get",
+				"$.get	$.get"
+			],
+			[
+				"the_",
+				"the_document"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"studio_l",
+				"studio_List"
+			],
+			[
+				"studio_li",
+				"studio_List_View"
+			],
+			[
+				"Helv",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"the",
+				"the_window"
+			],
+			[
+				"read",
+				"ready	document-ready"
+			],
+			[
+				"create",
+				"createServer"
+			],
+			[
+				"ti",
+				"\"Times New Roman\""
+			],
+			[
+				"helveti",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"times",
+				"\"Times New Roman\", Times, serif"
+			],
+			[
+				"checkbox_",
+				"checkbox_swap"
+			],
+			[
+				"on",
+				".on	on"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"table",
+				"table_input"
+			],
+			[
+				"input",
+				"input-wrap"
+			],
+			[
+				"feedback",
+				"feedback_sidebar"
+			],
+			[
+				"feed",
+				"feedback_sidebar"
+			],
+			[
+				"na",
+				"natcasesort"
+			],
+			[
+				"parent",
+				"parent_height"
+			],
+			[
+				"re",
+				"resize_cell_group"
+			],
+			[
+				"resize_",
+				"resize_cell_group"
+			],
+			[
+				"res",
+				"resize_header_cells"
+			],
+			[
+				"question",
+				"question_margin"
+			],
+			[
+				"quest",
+				"question_height"
+			],
+			[
+				"high",
+				"highlihgt_off"
+			],
+			[
+				"highl",
+				"highlight_on"
+			],
+			[
+				"live",
+				".live	live"
+			],
+			[
+				"slide_hei",
+				"slide_height_center"
+			],
+			[
+				"slide_height",
+				"slide_height_center"
+			],
+			[
+				"list-style",
+				"list-style-type	zen:css_properties"
+			],
+			[
+				"default",
+				"default_desc"
+			],
+			[
+				"label",
+				"labelText"
+			],
+			[
+				"youtube",
+				"youtube_id_array"
+			],
+			[
+				"slid",
+				"Slideshow"
+			],
+			[
+				"slideshow",
+				"slideshow_header"
+			],
+			[
+				"cart_modal",
+				"cart_modal"
+			],
+			[
+				"items",
+				"items_number"
+			],
+			[
+				"ites",
+				"items_number"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"slide",
+				"slides"
+			],
+			[
+				"URI_",
+				"URI_PART_1"
+			],
+			[
+				"w-",
+				"w-offgray"
+			],
+			[
+				"w",
+				"w-dgray"
+			],
+			[
+				"col",
+				"col_menu_cats"
+			],
+			[
+				"aa-",
+				"aa-lgray"
+			],
+			[
+				"extra",
+				"extra-bold"
+			],
+			[
+				"cart",
+				"cart_modal"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"letter",
+				"letter_width"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"letter-",
+				"letter-space"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"toggle",
+				".toggle	toggle (show/hide)"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"URI_PART",
+				"URI_PART_1"
+			],
+			[
+				"displ",
+				"display_image"
+			],
+			[
+				"product",
+				"product_images"
+			],
+			[
+				"produ",
+				"product_images"
+			],
+			[
+				"cate",
+				"category_image"
+			],
+			[
+				"home",
+				"home_slideshow"
+			],
+			[
+				"home_",
+				"home_resize"
+			],
+			[
+				"main",
+				"mainContainerHeight"
+			],
+			[
+				"lorem",
+				"lorem	lorem - Medium paragraph"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"page",
+				"page-width"
+			],
+			[
+				"lt_ie",
+				"lt_ie8"
+			],
+			[
+				"lt_",
+				"lt_ie8"
+			],
+			[
+				"click",
+				".click	click"
+			],
+			[
+				"jquery",
+				"jquery	<script> (jQuery google ajax api)"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"control",
+				"controlRight"
+			],
+			[
+				"photo",
+				"photo_type_id"
+			],
+			[
+				"URI",
+				"URI_PART_3"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"legal",
+				"legalAgree"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"portfolio",
+				"portfolioIsFirst"
+			],
+			[
+				"portfolioIs",
+				"portfolioIsLast"
+			],
+			[
+				"portfoliois",
+				"portfolioIsFirst"
+			],
+			[
+				"port",
+				"portfolioLinks"
+			],
+			[
+				"curre",
+				"currentIndex"
+			],
+			[
+				"sld",
+				"sliderSpeed"
+			],
+			[
+				"welcome",
+				"welcomeAnimate"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"max",
+				"maxHeight"
+			],
+			[
+				"content",
+				"contentWidth"
+			],
+			[
+				"header",
+				"headerHeight"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font	font: size font"
+			],
+			[
+				"ajax",
+				"$.ajax	jQuery AJAX call"
+			],
+			[
+				"more-info",
+				"more-info-legal"
+			],
+			[
+				"more",
+				"moreInfoForm"
+			],
+			[
+				"attr",
+				".attr	attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Sublime-JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 151.0,
+		"selected_items":
+		[
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"linter",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"dis",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"con",
+				"DataConverter: to JSON"
+			],
+			[
+				"da",
+				"DataConverter: to JSON"
+			],
+			[
+				"data",
+				"DataConverter: to JSON"
+			],
+			[
+				"conv",
+				"DataConverter: to JSON"
+			],
+			[
+				"insll",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"new ",
+				"Tasks: New document"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"rien",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"disale",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"format",
+				"Format: Php"
+			],
+			[
+				"htmlto",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"subli",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"redin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"aaa",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git comm",
+				"Git: Commit history"
+			],
+			[
+				"forma",
+				"Format: Php"
+			],
+			[
+				"php",
+				"Format: Php"
+			],
+			[
+				"javascript",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"comb",
+				"Sort via CSScomb"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"source",
+				"SourceTree: Open SourceTree"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"clip",
+				"Clipboard History"
+			],
+			[
+				"linting",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"vintage",
+				"Set Syntax: VintageEx Command Line"
+			],
+			[
+				"di",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"backg",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"disabl",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"enable pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"disb",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"csslint",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"css ",
+				"Preferences: JSLint Settings – Default"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 196.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/prlaugh/Documents/clients/thfa/modup/controller/studios.php",
+		"/Users/prlaugh/Documents/clients/thfa/index.php",
+		"/Users/prlaugh/Documents/clients/thfa/js/plugins.js",
+		"/Users/prlaugh/Documents/clients/thfa/js/home.js",
+		"/Users/prlaugh/Documents/clients/thfa/modup/system/config.routes.php",
+		"/Users/prlaugh/Documents/clients/thfa/sass/main.scss",
+		"/Users/prlaugh/Documents/clients/thfa/js/data/studios.js",
+		"/Users/prlaugh/Documents/clients/thfa/modup/system/router.php",
+		"/Users/prlaugh/Documents/clients/thfa/done.TODO",
+		"/Users/prlaugh/Documents/clients/thfa/sass/controls.scss",
+		"/Users/prlaugh/Documents/clients/thfa/modup/view/studios.php",
+		"/Users/K17/Documents/clients/thfa/modup/view/about.php",
+		"/Users/K17/Documents/clients/thfa/modup/controller/studios.php",
+		"/Users/K17/Documents/clients/thfa/modup/controller/about.php",
+		"/Users/K17/Documents/clients/thfa/js/about.js",
+		"/Users/K17/Documents/clients/thfa/js/home.js",
+		"/Users/K17/Documents/clients/thfa/js/data/studios.js",
+		"/Users/K17/Documents/clients/thfa/sass/layout.scss",
+		"/Users/K17/Documents/clients/thfa/sass/base.scss",
+		"/Users/K17/Documents/clients/thfa/js/plugins.js",
+		"/Users/K17/Documents/clients/thfa/done.TODO",
+		"/Users/K17/Documents/clients/thfa/modup/template/header.php",
+		"/Users/K17/Documents/clients/thfa/sass/main.scss",
+		"/Users/K17/Documents/clients/thfa/sass/carousel.scss",
+		"/Users/K17/Documents/clients/thfa/js/app.js",
+		"/Users/K17/Documents/clients/thfa/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js",
+		"/Users/K17/Documents/clients/thfa/sass/h5bp.scss",
+		"/Users/K17/Documents/clients/thfa/css/main.css",
+		"/Users/K17/Documents/clients/thfa/sass/bio_box.scss",
+		"/Users/K17/Documents/clients/thfa/modup/system/config.routes.php",
+		"/Users/K17/Documents/clients/thfa/modup/view/studios.php",
+		"/Users/K17/Documents/clients/thfa/thfa.TODO",
+		"/Users/K17/Documents/clients/thfa/studios.html",
+		"/Users/K17/Documents/clients/thfa/sass/shared.scss",
+		"/Users/K17/Documents/clients/thfa/sass/controls.scss",
+		"/Users/K17/Documents/clients/thfa/modup/template/footer.php",
+		"/Users/K17/Documents/clients/aep/js/script.js",
+		"/Users/K17/Documents/clients/aep/js/plugins.js",
+		"/Users/K17/Documents/clients/thfa/js/vendor/spin.js",
+		"/Users/K17/Documents/clients/aether/js/aether.js",
+		"/Users/K17/Documents/clients/thfa/js/vendor/handlebars.js",
+		"/Users/K17/Documents/clients/thfa/css/carousel.css",
+		"/Users/K17/Downloads/jquery-ui-1.9.0.custom/js/jquery-ui-1.9.0.custom.min.js",
+		"/Users/K17/Documents/clients/thfa/sass/nav.scss",
+		"/Users/K17/Desktop/jqueryTodo_demo.js",
+		"/Users/K17/Desktop/2331_TravisHansson_ContentInventory_toKrate_101112/Artists_ Studio Images-Table 1.csv",
+		"/Users/K17/Documents/clients/thfa/js/templates/first_studio.html",
+		"/Users/K17/Documents/clients/thfa/modup/view/index.php",
+		"/Users/K17/Documents/clients/thfa/modup/controller/index.php",
+		"/Users/K17/Documents/clients/thfa/.htaccess",
+		"/Users/K17/Documents/clients/thfa/js/vendor/underscore.1.4.2.js",
+		"/Users/K17/Documents/clients/thfa/css/nav.css",
+		"/Users/K17/Documents/clients/thfa/index.php",
+		"/Users/K17/Documents/clients/thfa/js/data/studios.json",
+		"/Users/K17/Documents/clients/thfa/modup/system/router.php",
+		"/Users/K17/Documents/clients/man2/.htaccess",
+		"/Users/K17/Documents/clients/thfa/js/collections/app.js",
+		"/Users/K17/Documents/clients/thfa/js/models/app.js",
+		"/Users/K17/Documents/clients/thfa/js/views/app.js",
+		"/Users/K17/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/K17/Documents/clients/thfa/index.html",
+		"/Users/K17/Documents/clients/thfa/js/vendor/hammer.js",
+		"/Users/K17/Documents/clients/thfa/about.html",
+		"/Applications/MAMP/htdocs/clients/thfa/index.html",
+		"/Users/K17/Documents/clients/lsc/lsc.TODO",
+		"/Users/K17/Downloads/jquery.scrollTo-1.4.3.1-min (1).js",
+		"/Users/K17/Documents/clients/lsc/js/plugins.js",
+		"/Users/K17/Documents/clients/lsc/sass/touch.scss",
+		"/Users/K17/Documents/clients/lsc/js/main.js",
+		"/Users/K17/Downloads/imakewebthings-jquery-waypoints-7a7e8d8 3/waypoints.min.js",
+		"/Users/K17/Documents/clients/lsc/sass/layout.scss",
+		"/Users/K17/Documents/clients/lsc/sass/module.scss",
+		"/Users/K17/Documents/clients/lsc/js/vendor/modernizr-2.6.1.min.js",
+		"/Users/K17/Documents/clients/lsc/.htaccess",
+		"/Users/K17/Documents/clients/lsc/css/touch.css",
+		"/Users/K17/Documents/clients/lsc/index.html",
+		"/Users/K17/Documents/clients/lsc/sass/base.scss",
+		"/Users/K17/Downloads/bootstrap (10)/js/bootstrap.js",
+		"/Users/K17/Documents/clients/lsc/sass/main.scss",
+		"/Users/K17/Downloads/bootstrap (10)/js/bootstrap.min.js",
+		"/Users/K17/Documents/clients/lsc/watch.js",
+		"/Users/K17/Documents/clients/lsc/sass/shared.scss",
+		"/Users/K17/Documents/sand.js",
+		"/Users/K17/Documents/text.html",
+		"/Users/K17/Documents/clients/lsc/sass/normalize.scss",
+		"/Users/K17/Documents/clients/lsc/css/main.css",
+		"/Users/K17/Documents/clients/lsc/sass/h5bp.scss",
+		"/Users/K17/Documents/clients/lsc/.gitignore",
+		"/Users/K17/Documents/clients/lsc/styl/main.styl",
+		"/Users/K17/Documents/clients/lsc/styl/base.styl",
+		"/Users/K17/Documents/clients/lsc/styl/shared.styl",
+		"/Users/K17/Documents/clients/lsc/styl/layout.styl",
+		"/Users/K17/Documents/clients/lsc/css/style.css",
+		"/Users/K17/Documents/clients/lsc/sass/styl/main.styl",
+		"/Users/K17/Documents/clients/lsc/sass/watch.js",
+		"/Users/K17/Documents/clients/lsc/stylesheets/main.css",
+		"/Users/K17/Documents/clients/lsc/sass/print.scss",
+		"/Users/K17/Documents/clients/lsc/config.rb",
+		"/Users/K17/Documents/clients/lsc/sass/_normalize.scss",
+		"/Users/K17/Documents/clients/mbs/modup/system/function.php",
+		"/Users/K17/Documents/clients/mbs/modup/view/index.php",
+		"/Users/K17/Documents/clients/mbs/modup/controller/index.php",
+		"/Users/K17/Documents/clients/mbs/css/sass/media.scss",
+		"/Users/K17/Documents/clients/mbs/css/sass/layout.scss",
+		"/Users/K17/Documents/clients/mbs/modup/template/header.php",
+		"/Users/K17/Documents/clients/mbs/css/sass/modules.scss",
+		"/Users/K17/Documents/clients/mbs/modup/view/feedback.php",
+		"/Users/K17/Documents/clients/mbs/js/main.js",
+		"/Users/K17/Documents/clients/mbs/css/sass/h5bp.scss",
+		"/Users/K17/Documents/clients/mbs/css/sass/main.scss",
+		"/Users/K17/Documents/clients/mbs/css/sass/print.scss",
+		"/Users/K17/Documents/clients/mbs/done.TODO",
+		"/Users/K17/Documents/clients/mbs/img/assets/alfred-chan-signature.png",
+		"/Users/K17/Documents/clients/mbs/modup/library/doctrine/Doctrine/Parser/sfYaml/sfYamlInline.php",
+		"/Users/K17/Documents/clients/mbs/css/normalize.css",
+		"/Users/K17/Documents/clients/mbs/css/main.css",
+		"/Users/K17/Documents/clients/mbs/css/sass/print.css",
+		"/Users/K17/Documents/clients/mbs/modup/view/survey.php",
+		"/Users/K17/Documents/clients/mbs/js/plugins.js",
+		"/Users/K17/Downloads/addyosmani-todomvc-9e6135a/architecture-examples/angularjs/index.html",
+		"/Users/K17/Documents/patrick's_stuff/backbone_sandbox/index.html",
+		"/Users/K17/Documents/patrick's_stuff/backbone_sandbox/js/view.js",
+		"/Users/K17/Documents/patrick's_stuff/backbone_sandbox/js/model.js",
+		"/Users/K17/Documents/clients/mbs/css/sass/typography.scss",
+		"/Users/K17/Documents/clients/mbs/modup/template/footer.php",
+		"/Users/K17/Documents/clients/mbs/index.php",
+		"/Users/K17/Documents/clients/mbs/css/sass/select.scss",
+		"/Users/K17/Documents/clients/mbs/modup/controller/case_study/english/questions.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"o_state",
+			"history",
+			"isPopState",
+			"isPopstate",
+			"did_push_state",
+			"swapImage",
+			"popState",
+			"spin(false",
+			"control_index",
+			"render",
+			"check_ui",
+			"trigger",
+			"resize",
+			"inview",
+			"container.css",
+			"resize",
+			"resize_img",
+			"resize",
+			"container.css",
+			"push",
+			"resize_img",
+			"container.css",
+			"load_src",
+			"inview_index",
+			"target",
+			"artist_img",
+			"load_src",
+			"this.artist_img",
+			".resize",
+			"resize",
+			"history",
+			"prev_image",
+			"slides_animating",
+			"next_image",
+			"is_touch",
+			"console.log",
+			"attr('href'",
+			"artist_list",
+			"artist-list",
+			"scebe",
+			"forward()",
+			"list",
+			"artist_list",
+			"check_ui",
+			"forward",
+			"jump()",
+			"is_transi",
+			"carousel",
+			"bowden",
+			"de kooning",
+			"sprite",
+			"append",
+			"artist-name",
+			"toggle-box",
+			"toggle",
+			"next",
+			"check_spinn",
+			"check_spinner",
+			"check",
+			"jump",
+			"check_spinner()",
+			"all",
+			"1s",
+			"check_spinner",
+			"check_sp",
+			"check_spinner",
+			"check_psinn",
+			"check_spinner",
+			"check_ui",
+			"load_src(",
+			"load_src",
+			"callback",
+			"spin",
+			".animate",
+			"all",
+			"ease-in-out",
+			"ease-in",
+			"ease-out",
+			"animate",
+			"console.",
+			"setTime",
+			"$('.control.prev')",
+			"forward()",
+			".index",
+			"check_ui",
+			"addClass('inview",
+			"console.log",
+			"backstretch",
+			"resize",
+			"background",
+			"resize",
+			".inview",
+			"jump",
+			"$(this)",
+			"jump",
+			"current_index",
+			"swap_studio",
+			"load_all_img",
+			"jump_forward",
+			"jump",
+			"bern",
+			"credit: ",
+			"inview_index",
+			"forward()",
+			"resize",
+			"append",
+			"                ",
+			"control_index",
+			".index",
+			"resize",
+			"animate",
+			"current_index",
+			"control_index",
+			"curr_studio",
+			"inview",
+			".inview",
+			"next_studio",
+			"swap_studio",
+			"inview",
+			".inview",
+			".left",
+			".right",
+			"right",
+			"control.prev",
+			"prev",
+			"left",
+			"swap",
+			"alpha"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"opacity",
+			".3s",
+			"position",
+			"ease",
+			"ease-in-out",
+			"ease-in",
+			"$prev_control",
+			"studio",
+			"transition",
+			".prev",
+			".next",
+			"omega",
+			"toggle_list",
+			"Handlebars.compile",
+			"---",
+			"App.bb_is_open",
+			"App.bb",
+			"App.bb_is_open",
+			"left",
+			"position",
+			"linear",
+			"margin",
+			"this.curr_studio",
+			"img",
+			"group",
+			"../fonts/DINWeb",
+			"'",
+			"\"",
+			"",
+			"class=\"bg\"",
+			"carousel",
+			"img id=\"bg\" ",
+			"img src=\"img/assets/home_carousel/",
+			"el",
+			"touchstart",
+			"$the_window",
+			"has_touch",
+			"touchstart",
+			"mousedown",
+			".25",
+			".3",
+			"</a></li>",
+			"</li></a>",
+			"h2",
+			"p",
+			"alt=\"\"></div>",
+			"light",
+			"group",
+			"width",
+			"float",
+			"position",
+			"inset 0 4px 7px #EDEDED",
+			"#EDEDED",
+			"$lightgray",
+			"$gray",
+			"$llgray",
+			"el",
+			"background-color",
+			"color",
+			"0.5s",
+			".3s",
+			"2s background",
+			"transition",
+			"feedback_sidebar",
+			"box-shadow",
+			"3px",
+			".opt.row",
+			"input",
+			"opt row",
+			" row",
+			"head",
+			"3px",
+			"results",
+			"entry",
+			"category",
+			"cleared",
+			"cart_items",
+			"entry",
+			"p",
+			"",
+			"cart_modal_content",
+			"div",
+			"STANDARD",
+			"90",
+			"80",
+			"66",
+			"10066",
+			"100",
+			"24",
+			"84",
+			"74",
+			"site-functions",
+			"4. The use of the Mandarin Oriental name and related trademarks in connection with The Residences is pursuant to a revocable license from MOHG which may expire or be terminated.",
+			"3. MOHG is not responsible in any way for the content of the Developer’s website and MOHG makes no representation, warranty or guaranty of any kind regarding The Residences.",
+			"Thank you for visiting our website for The Residences at Mandarin Oriental, [insert location] (The Residences). At your request, you are about to be directed to the website of [insert developer name], the owner of The Residences. Before this happens, we first ask that you acknowledge and accept the following disclaimers by choosing “agree” below. If you choose “cancel” instead or otherwise exit this page without choosing “agree”, you will not be directed to Developer’s website.",
+			"Thank you for your interest in The Residences at Mandarin Oriental, New York (The Residences). The information you are providing is being collected by Mandarin Oriental Property Services (New York) LLC, a member of the affiliated group of companies known as Mandarin Oriental Hotel Group (MOHG). By choosing “agree”, you are accepting the following disclaimers. If you choose “cancel”, your information will not be transmitted to MOHG.",
+			"2. The Residences are not developed, sponsored, owned, offered or sold by MOHG.",
+			"1. Mandarin Oriental Hotel Group and its affiliates (collectively, MOHG) are not affiliated with Developer.",
+			"Mandarin Oriental Hotel Group and its affiliates (collectively, MOHG) are not affiliated with Developer.",
+			"",
+			"titles-small.png",
+			"titles.png",
+			"titles-small.png",
+			"<abbr title=\"Social Evolution Research Center\">SERC</abbr>",
+			"<abbr title=\"Social Evolution Research Center\" />",
+			".sub-title",
+			"sub-title",
+			".title",
+			".trait",
+			".title",
+			"",
+			"40px",
+			"div",
+			"$('.article', g)",
+			"omega",
+			"alpha",
+			"",
+			"0.4",
+			"",
+			"0.3",
+			"accordionLink",
+			"",
+			"portfolioImage",
+			"</li></a>",
+			"<li></a>",
+			"<a href=\"#\"><li>",
+			"</a></li>",
+			"<li><a href=\"#\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 114.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"plugin",
+				"js/plugins.js"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"studio",
+				"modup/controller/studios.php"
+			],
+			[
+				"studios",
+				"modup/view/studios.php"
+			],
+			[
+				"home",
+				"js/home.js"
+			],
+			[
+				"routes",
+				"modup/system/config.routes.php"
+			],
+			[
+				"router",
+				"modup/system/router.php"
+			],
+			[
+				"contro",
+				"sass/controls.scss"
+			],
+			[
+				"main.scss",
+				"sass/main.scss"
+			],
+			[
+				"done",
+				"done.TODO"
+			],
+			[
+				"todo",
+				"thfa.TODO"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"bio",
+				"sass/bio_box.scss"
+			],
+			[
+				"about",
+				"modup/view/about.php"
+			],
+			[
+				"controller",
+				"modup/controller/studios.php"
+			],
+			[
+				"about.",
+				"modup/controller/about.php"
+			],
+			[
+				"carousel",
+				"sass/carousel.scss"
+			],
+			[
+				"lay",
+				"sass/layout.scss"
+			],
+			[
+				"bas",
+				"sass/base.scss"
+			],
+			[
+				"moder",
+				"js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"
+			],
+			[
+				"a",
+				"js/app.js"
+			],
+			[
+				"layout",
+				"sass/layout.scss"
+			],
+			[
+				"base",
+				"sass/base.scss"
+			],
+			[
+				"h5bp",
+				"sass/h5bp.scss"
+			],
+			[
+				"main.css",
+				"css/main.css"
+			],
+			[
+				"car",
+				"sass/carousel.scss"
+			],
+			[
+				"main.s",
+				"sass/main.scss"
+			],
+			[
+				"route",
+				"modup/system/config.routes.php"
+			],
+			[
+				"appj",
+				"js/app.js"
+			],
+			[
+				"carou",
+				"sass/carousel.scss"
+			],
+			[
+				"shared",
+				"sass/shared.scss"
+			],
+			[
+				"footer",
+				"modup/template/footer.php"
+			],
+			[
+				"data/stu",
+				"js/data/studios.js"
+			],
+			[
+				"foo",
+				"modup/template/footer.php"
+			],
+			[
+				"studios.php",
+				"modup/view/studios.php"
+			],
+			[
+				"controls",
+				"sass/controls.scss"
+			],
+			[
+				"control",
+				"sass/controls.scss"
+			],
+			[
+				"studios.",
+				"js/data/studios.js"
+			],
+			[
+				"share",
+				"sass/shared.scss"
+			],
+			[
+				"too",
+				"thfa.TODO"
+			],
+			[
+				"layou",
+				"sass/layout.scss"
+			],
+			[
+				"",
+				"sass/main.scss"
+			],
+			[
+				"hal",
+				"js/vendor/handlebars.js"
+			],
+			[
+				"shar",
+				"sass/shared.scss"
+			],
+			[
+				"con",
+				"sass/controls.scss"
+			],
+			[
+				"plu",
+				"js/plugins.js"
+			],
+			[
+				"nav",
+				"sass/nav.scss"
+			],
+			[
+				"main",
+				"sass/main.scss"
+			],
+			[
+				"sh",
+				"sass/shared.scss"
+			],
+			[
+				"bio_box",
+				"sass/bio_box.scss"
+			],
+			[
+				"ind",
+				"modup/view/index.php"
+			],
+			[
+				"foot",
+				"modup/template/footer.php"
+			],
+			[
+				"plugins",
+				"js/plugins.js"
+			],
+			[
+				"htacc",
+				".htaccess"
+			],
+			[
+				"controllerstudio",
+				"modup/controller/studios.php"
+			],
+			[
+				"carousel.",
+				"sass/carousel.scss"
+			],
+			[
+				"heade",
+				"modup/template/header.php"
+			],
+			[
+				"head",
+				"modup/template/header.php"
+			],
+			[
+				"index.",
+				"modup/controller/index.php"
+			],
+			[
+				"json",
+				"js/data/studios.json"
+			],
+			[
+				"studios.json",
+				"js/data/studios.json"
+			],
+			[
+				"handle",
+				"js/vendor/handlebars.js"
+			],
+			[
+				"viewstudios",
+				"modup/view/studios.php"
+			],
+			[
+				".ht",
+				".htaccess"
+			],
+			[
+				"rout",
+				"modup/system/router.php"
+			],
+			[
+				"in",
+				"modup/controller/index.php"
+			],
+			[
+				"model",
+				"js/models/app.js"
+			],
+			[
+				"view",
+				"js/views/app.js"
+			],
+			[
+				"hammer.js",
+				"js/vendor/hammer.js"
+			],
+			[
+				"main.js",
+				"js/main.js"
+			],
+			[
+				"module",
+				"css/sass/modules.scss"
+			],
+			[
+				"typo",
+				"css/sass/typography.scss"
+			],
+			[
+				"mbs.",
+				"mbs.TODO"
+			],
+			[
+				"surve",
+				"modup/view/survey.php"
+			],
+			[
+				"touch",
+				"sass/touch.scss"
+			],
+			[
+				"touch.scss",
+				"sass/touch.scss"
+			],
+			[
+				".htacc",
+				".htaccess"
+			],
+			[
+				"moderniz",
+				"js/vendor/modernizr-2.6.1.min.js"
+			],
+			[
+				"modu",
+				"sass/module.scss"
+			],
+			[
+				"norma",
+				"sass/normalize.scss"
+			],
+			[
+				"normaliz",
+				"sass/normalize.scss"
+			],
+			[
+				".gitignore",
+				".gitignore"
+			],
+			[
+				"layout.scss",
+				"sass/layout.scss"
+			],
+			[
+				"watch",
+				"watch.js"
+			],
+			[
+				"layout.styl",
+				"styl/layout.styl"
+			],
+			[
+				"wa",
+				"watch.js"
+			],
+			[
+				"style.",
+				"css/style.css"
+			],
+			[
+				"styl",
+				"styl/main.styl"
+			],
+			[
+				"config.r",
+				"config.rb"
+			],
+			[
+				"style",
+				"stylesheets/main.css"
+			],
+			[
+				"function",
+				"modup/system/function.php"
+			],
+			[
+				"media",
+				"css/sass/media.scss"
+			],
+			[
+				"h5b",
+				"css/sass/h5bp.scss"
+			],
+			[
+				"feedback",
+				"modup/view/feedback.php"
+			],
+			[
+				"survey",
+				"modup/view/survey.php"
+			],
+			[
+				"fedba",
+				"modup/view/feedback.php"
+			],
+			[
+				"select",
+				"css/sass/select.scss"
+			],
+			[
+				"func",
+				"modup/system/function.php"
+			],
+			[
+				"question",
+				"modup/controller/case_study/english/questions.php"
+			],
+			[
+				"mod",
+				"css/sass/modules.scss"
+			],
+			[
+				"surv",
+				"modup/view/survey.php"
+			],
+			[
+				"module.scss",
+				"css/sass/modules.scss"
+			],
+			[
+				"main.",
+				"css/sass/main.scss"
+			],
+			[
+				"main.j",
+				"js/main.js"
+			],
+			[
+				"modul",
+				"css/sass/modules.scss"
+			],
+			[
+				"plug",
+				"js/plugins.js"
+			],
+			[
+				"pl",
+				"js/plugins.js"
+			],
+			[
+				"pie",
+				"js/piecon.min.js"
+			],
+			[
+				"intro",
+				"modup/controller/case_study/cantonese/introduction.php"
+			],
+			[
+				"sur",
+				"modup/view/survey.php"
+			],
+			[
+				"fonts",
+				"css/sass/fonts.scss"
+			],
+			[
+				"view/su",
+				"modup/view/survey.php"
+			],
+			[
+				"typography",
+				"css/sass/typography.scss"
+			],
+			[
+				"controllerindex",
+				"modup/controller/index.php"
+			],
+			[
+				"quest",
+				"modup/controller/case_study/cantonese/questions.php"
+			],
+			[
+				"answer",
+				"modup/model/Answer.php"
+			],
+			[
+				"controller/index",
+				"modup/controller/index.php"
+			],
+			[
+				"nr",
+				"css/normalize.css"
+			],
+			[
+				"font",
+				"css/sass/fonts.scss"
+			],
+			[
+				"view/survey",
+				"modup/view/survey.php"
+			],
+			[
+				"modules.scss",
+				"css/sass/modules.scss"
+			],
+			[
+				"norm",
+				"css/normalize.css"
+			],
+			[
+				"view/",
+				"modup/view/index.php"
+			],
+			[
+				"normal",
+				"css/normalize.css"
+			],
+			[
+				"scss",
+				"css/sass/screen.scss"
+			],
+			[
+				"screen.scss",
+				"css/sass/screen.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true
+}
