@@ -1,6 +1,5 @@
 $(function() {
-	$('.prim-nav').transition({
-		opacity: 1,
-		paddingTop: '40px'
-	}, 2000);
+	$(window).resize(function(event) {
+		console.log($(window).width());
+	});
 });

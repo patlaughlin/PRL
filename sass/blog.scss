@@ -1,0 +1,29 @@
+.blog {
+	article {
+		margin-bottom: 50px;
+	}
+	hgroup {
+		line-height: 0.8;
+		margin-bottom: 20px;
+	}
+	h1 {
+		font-size: calc-em(25px, $base-font-size);
+		a {
+			color: $off-black;
+			&:hover {
+				color: $red;
+			}
+		}
+	}
+	h2 {
+		font-size: calc-em(19px, $base-font-size);
+	}
+}
+
+@media only screen and (min-width: 550px) {
+	// .blog {
+	// 	h1 {
+	// 		text-align: left;
+	// 	}
+	// }
+}

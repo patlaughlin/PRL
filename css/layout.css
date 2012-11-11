@@ -1,0 +1,13 @@
+/* line 1, ../sass/layout.scss */
+.content {
+  width: 92%;
+  margin: 0 auto;
+}
+
+@media only screen and (min-width: 550px) {
+  /* line 7, ../sass/layout.scss */
+  .content {
+    width: 85%;
+    max-width: 900px;
+  }
+}

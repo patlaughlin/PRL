@@ -1,16 +1,47 @@
+@import 'compass';
+
 .prim-nav {
-	background-color: #353335;
-	position: relative;
-	opacity: 0;
+	margin-bottom: 40px;
+	@include transition(height .5s ease-in);
 	h1 {
-		margin: 0 auto;
+		margin: 20px 0 30px;
 		text-align: center;
-		color: white;
-		letter-spacing: 2px;
+		font-size: calc-em(23px, $base-font-size);
+		letter-spacing: 1px;
+		a:hover {
+			color: $red;
+		}
+	}
+	ul {
+		margin: 0 auto 20px;
+		padding: 0;
+		text-align: center;
 	}
 	li {
+		width: percentage(3 / 9);
 		display: block;
-		margin-right: 10px;
 		float: left;
+		font-size: calc-em(12px, $base-font-size);
+		text-transform: uppercase;
+		letter-spacing: 2px;
+	}
+}
+
+@media only screen and (min-width: 550px) {
+	.prim-nav {
+		h1 {
+			width: percentage(550px / 1024px);
+			float: left;
+			text-align: left;
+		}
+		ul {
+			width: percentage(420px / 1024px);
+			margin-top: 25px;
+			float: right;
+			text-align: none;
+		}
+		li {
+			float: right;
+		}
 	}
 }

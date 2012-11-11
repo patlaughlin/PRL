@@ -1,13 +1,37 @@
-* { font-weight: normal; }
+@import "compass";
+
+* { 
+	font-weight: normal; 
+	@include box-sizing(border-box);
+}
+
+$off-black: #241f19;
+$gray: #B8B8B8;
+$red: #eb0b0c;
+$blue: #0899ce;
+$base-font-size: 16px;
+$base-line-height: 24px;
 
 body {
 	font-family: $AvSans;
+	color: $off-black;
+	font-size: $base-font-size;
+	line-height: $base-line-height;
+}
+p {
+	font-family: $Lora;
 }
 a {
-	color: white;
+	color: $gray;
 	text-decoration: none;
+	@include transition(color .2s ease-in);
+	&:hover {
+		color: $off-black;
+		color: $blue;
+	}
 }
 
 .content {
+	width: 97%;
 	margin: 0 auto;
 }

@@ -1,2 +1,8 @@
+@import 'compass';
+
 $AvSans: 'Average Sans', Helvetica, arial, sans-serif;
-$Lora: 'Lora', Georgia, serif;
+$Lora: 'PT Serif', Georgia, serif;
+
+@function calc-em($target-px, $context) {
+  @return ($target-px / $context) * 1em;
+}

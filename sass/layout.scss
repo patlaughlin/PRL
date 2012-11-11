@@ -1,21 +1,12 @@
 .content {
+	width: 92%;
 	margin: 0 auto;
 }
 
-.prim-nav {
-	padding-top: 20px;
-	background-color: #353335;
-	position: relative;
-	opacity: 0;
-	h1 {
-		margin: 0 auto;
-		text-align: center;
-		color: white;
-		letter-spacing: 2px;
-	}
-	li {
-		display: block;
-		margin-right: 10px;
-		float: left;
+@media only screen and (min-width: 550px) {
+	.content {
+		width: 85%;
+		max-width: 900px;
+
 	}
 }
