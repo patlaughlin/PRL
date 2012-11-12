@@ -17,15 +17,17 @@
             <!--[if lt IE 7]>
                 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
             <![endif]-->
-        <div class="content ">
-            <header class="prim-nav clearfix">
-                <h1><a href="/">Patrick Laughlin</a></h1>
-                <ul class="clearfix">
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Work</a></li>
-                    <li><a href="#">About</a></li>
-                </ul>
-            </header>
+            <div class="nav-wrap">
+                <header class="prim-nav clearfix">
+                    <h1><a href="/">Patrick Laughlin</a></h1>
+                    <ul class="clearfix">
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="work.html">Work</a></li>
+                        <li><a href="#">About</a></li>
+                    </ul>
+                </header>
+            </div>
+        <div class="content">
             <div class="blog">
                 
                 <article>
@@ -49,6 +51,7 @@
 
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.2.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
+        <script src="js/vendor/jquery.pjax.js"></script>
         <script src="js/main.js"></script>
 
         <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>

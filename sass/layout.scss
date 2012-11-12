@@ -1,12 +1,14 @@
 .content {
 	width: 92%;
-	margin: 0 auto;
+	margin: 150px auto 0;
+	background: white;
+	padding: 40px;
 }
 
 @media only screen and (min-width: 550px) {
 	.content {
 		width: 85%;
+		margin-top: 110px;
 		max-width: 900px;
-
 	}
 }

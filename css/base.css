@@ -1,9 +1,9 @@
 /*
 Syntax error: Undefined variable: "$AvSans".
-        on line 16 of /Users/prlaugh/Documents/clients/prl/sass/base.scss
+        on line 20 of /Users/prlaugh/Documents/clients/prl/sass/base.scss
 
 Backtrace:
-/Users/prlaugh/Documents/clients/prl/sass/base.scss:16
+/Users/prlaugh/Documents/clients/prl/sass/base.scss:20
 /Library/Ruby/Gems/1.8/gems/sass-3.1.18/lib/sass/../sass/script/variable.rb:49:in `_perform'
 /Library/Ruby/Gems/1.8/gems/sass-3.1.18/lib/sass/../sass/script/node.rb:40:in `perform'
 /Library/Ruby/Gems/1.8/gems/sass-3.1.18/lib/sass/../sass/tree/visitors/perform.rb:216:in `visit_prop'
@@ -79,4 +79,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined variable: \"$AvSans\".\A         on line 16 of /Users/prlaugh/Documents/clients/prl/sass/base.scss"; }
+  content: "Syntax error: Undefined variable: \"$AvSans\".\A         on line 20 of /Users/prlaugh/Documents/clients/prl/sass/base.scss"; }

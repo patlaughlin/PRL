@@ -5,10 +5,14 @@
 	@include box-sizing(border-box);
 }
 
-$off-black: #241f19;
-$gray: #B8B8B8;
-$red: #eb0b0c;
-$blue: #0899ce;
+$off-black: #121011;
+$gray: #414141;
+$yellow: #FDF900;
+$pink: #e83ca5;
+$red: #ff3636;
+$blue: #3543f9;
+$tan: #E9E7E0;
+$cyan: rgba(43,253,255,0.4);
 $base-font-size: 16px;
 $base-line-height: 24px;
 
@@ -17,21 +21,15 @@ body {
 	color: $off-black;
 	font-size: $base-font-size;
 	line-height: $base-line-height;
+	background: $tan;
 }
-p {
-	font-family: $Lora;
-}
+
 a {
 	color: $gray;
 	text-decoration: none;
-	@include transition(color .2s ease-in);
+	@include transition(color .2s linear, background .5s linear);
 	&:hover {
 		color: $off-black;
 		color: $blue;
 	}
-}
-
-.content {
-	width: 97%;
-	margin: 0 auto;
 }

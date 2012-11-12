@@ -11,12 +11,13 @@
 		a {
 			color: $off-black;
 			&:hover {
-				color: $red;
+				color: $blue;
 			}
 		}
 	}
 	h2 {
 		font-size: calc-em(19px, $base-font-size);
+		color: $off-black;
 	}
 }
 

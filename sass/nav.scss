@@ -1,15 +1,26 @@
 @import 'compass';
 
+.nav-wrap {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	background: $tan;
+	z-index: -1;
+}
 .prim-nav {
-	margin-bottom: 40px;
+	width: 70%;
+	max-width: 550px;
+	border-bottom: 1px solid $red;
+	margin: 0 auto 40px;
 	@include transition(height .5s ease-in);
 	h1 {
 		margin: 20px 0 30px;
 		text-align: center;
 		font-size: calc-em(23px, $base-font-size);
 		letter-spacing: 1px;
-		a:hover {
-			color: $red;
+		&:hover {
+			color: white;
+			@include transition(background .2s linear);
 		}
 	}
 	ul {
@@ -24,6 +35,13 @@
 		font-size: calc-em(12px, $base-font-size);
 		text-transform: uppercase;
 		letter-spacing: 2px;
+		a {
+			padding: 20px;
+			&:hover {
+				background: white;
+				@include transition(background .2s linear);
+			}
+		}
 	}
 }
 

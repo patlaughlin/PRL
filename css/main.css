@@ -774,66 +774,72 @@ textarea {
   box-sizing: border-box;
 }
 
-/* line 15, ../sass/base.scss */
+/* line 19, ../sass/base.scss */
 body {
   font-family: "Average Sans", Helvetica, arial, sans-serif;
-  color: #241f19;
+  color: #121011;
   font-size: 16px;
   line-height: 24px;
+  background: #e9e7e0;
 }
 
-/* line 21, ../sass/base.scss */
-p {
-  font-family: "PT Serif", Georgia, serif;
-}
-
-/* line 24, ../sass/base.scss */
+/* line 27, ../sass/base.scss */
 a {
-  color: #b8b8b8;
+  color: #414141;
   text-decoration: none;
-  -webkit-transition: color 0.2s ease-in;
-  -moz-transition: color 0.2s ease-in;
-  -o-transition: color 0.2s ease-in;
-  transition: color 0.2s ease-in;
+  -webkit-transition: color 0.2s linear, background 0.5s linear;
+  -moz-transition: color 0.2s linear, background 0.5s linear;
+  -o-transition: color 0.2s linear, background 0.5s linear;
+  transition: color 0.2s linear, background 0.5s linear;
 }
-/* line 28, ../sass/base.scss */
+/* line 31, ../sass/base.scss */
 a:hover {
-  color: #241f19;
-  color: #0899ce;
-}
-
-/* line 34, ../sass/base.scss */
-.content {
-  width: 97%;
-  margin: 0 auto;
+  color: #121011;
+  color: #3543f9;
 }
 
 /* line 3, ../sass/nav.scss */
+.nav-wrap {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background: #e9e7e0;
+  z-index: -1;
+}
+
+/* line 10, ../sass/nav.scss */
 .prim-nav {
-  margin-bottom: 40px;
+  width: 70%;
+  max-width: 550px;
+  border-bottom: 1px solid #ff3636;
+  margin: 0 auto 40px;
   -webkit-transition: height 0.5s ease-in;
   -moz-transition: height 0.5s ease-in;
   -o-transition: height 0.5s ease-in;
   transition: height 0.5s ease-in;
 }
-/* line 6, ../sass/nav.scss */
+/* line 16, ../sass/nav.scss */
 .prim-nav h1 {
   margin: 20px 0 30px;
   text-align: center;
   font-size: 1.438em;
   letter-spacing: 1px;
 }
-/* line 11, ../sass/nav.scss */
-.prim-nav h1 a:hover {
-  color: #eb0b0c;
+/* line 21, ../sass/nav.scss */
+.prim-nav h1:hover {
+  color: white;
+  -webkit-transition: background 0.2s linear;
+  -moz-transition: background 0.2s linear;
+  -o-transition: background 0.2s linear;
+  transition: background 0.2s linear;
 }
-/* line 15, ../sass/nav.scss */
+/* line 26, ../sass/nav.scss */
 .prim-nav ul {
   margin: 0 auto 20px;
   padding: 0;
   text-align: center;
 }
-/* line 20, ../sass/nav.scss */
+/* line 31, ../sass/nav.scss */
 .prim-nav li {
   width: 33.333%;
   display: block;
@@ -842,22 +848,34 @@ a:hover {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+/* line 38, ../sass/nav.scss */
+.prim-nav li a {
+  padding: 20px;
+}
+/* line 40, ../sass/nav.scss */
+.prim-nav li a:hover {
+  background: white;
+  -webkit-transition: background 0.2s linear;
+  -moz-transition: background 0.2s linear;
+  -o-transition: background 0.2s linear;
+  transition: background 0.2s linear;
+}
 
 @media only screen and (min-width: 550px) {
-  /* line 32, ../sass/nav.scss */
+  /* line 50, ../sass/nav.scss */
   .prim-nav h1 {
     width: 53.711%;
     float: left;
     text-align: left;
   }
-  /* line 37, ../sass/nav.scss */
+  /* line 55, ../sass/nav.scss */
   .prim-nav ul {
     width: 41.016%;
     margin-top: 25px;
     float: right;
     text-align: none;
   }
-  /* line 43, ../sass/nav.scss */
+  /* line 61, ../sass/nav.scss */
   .prim-nav li {
     float: right;
   }
@@ -865,13 +883,16 @@ a:hover {
 /* line 1, ../sass/layout.scss */
 .content {
   width: 92%;
-  margin: 0 auto;
+  margin: 150px auto 0;
+  background: white;
+  padding: 40px;
 }
 
 @media only screen and (min-width: 550px) {
-  /* line 7, ../sass/layout.scss */
+  /* line 9, ../sass/layout.scss */
   .content {
     width: 85%;
+    margin-top: 110px;
     max-width: 900px;
   }
 }
@@ -890,13 +911,14 @@ a:hover {
 }
 /* line 11, ../sass/blog.scss */
 .blog h1 a {
-  color: #241f19;
+  color: #121011;
 }
 /* line 13, ../sass/blog.scss */
 .blog h1 a:hover {
-  color: #eb0b0c;
+  color: #3543f9;
 }
 /* line 18, ../sass/blog.scss */
 .blog h2 {
   font-size: 1.188em;
+  color: #121011;
 }
