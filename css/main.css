@@ -865,31 +865,43 @@ a:hover {
   /* line 50, ../sass/nav.scss */
   .prim-nav h1 {
     width: 53.711%;
+    margin-bottom: 0;
     float: left;
     text-align: left;
   }
-  /* line 55, ../sass/nav.scss */
+  /* line 56, ../sass/nav.scss */
   .prim-nav ul {
     width: 41.016%;
     margin-top: 25px;
     float: right;
     text-align: none;
   }
-  /* line 61, ../sass/nav.scss */
+  /* line 62, ../sass/nav.scss */
   .prim-nav li {
-    float: right;
+    float: left;
   }
 }
 /* line 1, ../sass/layout.scss */
+.main {
+  overflow: hidden;
+}
+
+/* line 5, ../sass/layout.scss */
 .content {
   width: 92%;
   margin: 150px auto 0;
-  background: white;
+  overflow: hidden;
+}
+
+/* line 11, ../sass/layout.scss */
+.page {
   padding: 40px;
+  position: relative;
+  background: white;
 }
 
 @media only screen and (min-width: 550px) {
-  /* line 9, ../sass/layout.scss */
+  /* line 18, ../sass/layout.scss */
   .content {
     width: 85%;
     margin-top: 110px;

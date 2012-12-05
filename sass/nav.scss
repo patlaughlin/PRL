@@ -49,6 +49,7 @@
 	.prim-nav {
 		h1 {
 			width: percentage(550px / 1024px);
+			margin-bottom: 0;
 			float: left;
 			text-align: left;
 		}
@@ -59,7 +60,7 @@
 			text-align: none;
 		}
 		li {
-			float: right;
+			float: left;
 		}
 	}
 }

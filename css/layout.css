@@ -1,13 +1,24 @@
 /* line 1, ../sass/layout.scss */
+.main {
+  overflow: hidden;
+}
+
+/* line 5, ../sass/layout.scss */
 .content {
   width: 92%;
   margin: 150px auto 0;
-  background: white;
+  overflow: hidden;
+}
+
+/* line 11, ../sass/layout.scss */
+.page {
   padding: 40px;
+  position: relative;
+  background: white;
 }
 
 @media only screen and (min-width: 550px) {
-  /* line 9, ../sass/layout.scss */
+  /* line 18, ../sass/layout.scss */
   .content {
     width: 85%;
     margin-top: 110px;

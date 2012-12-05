@@ -1,13 +1,14 @@
 $(function() {
-	$(window).resize(function(event) {
-		console.log($(window).width());
-	});
+    var App = {
+        init: function() {
+            this.render();
+        },
+        render: function() {
+            console.log('its rendering...');
+            $('.prim-nav').hide().fadeIn();
+        }
+    };
 
-	$('.prim-nav a').click(function(event) {
-		event.preventDefault();
-		// history.pushState({path: 'foobar', '', this.href});
-		$.get(this.href, function(data) {
-			$('.blog').html(data);
-		});
-	});
+
+
 });
